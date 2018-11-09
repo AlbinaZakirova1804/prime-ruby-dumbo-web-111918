@@ -1,7 +1,7 @@
 def prime(number)
   for d in 2..(number - 1)
-   if (number % d) == 0
-     return false
+   if (number % d) !== 0
+     return true
    else
      return true
    end
