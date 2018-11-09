@@ -1,6 +1,6 @@
-def prime(int)
-  for d in 2..(int - 1)
-   if (int % d) == 0
+def prime(number)
+  for d in 2..(number - 1)
+   if (number % d) == 0
     return false
    end
   end
