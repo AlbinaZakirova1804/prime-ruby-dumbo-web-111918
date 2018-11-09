@@ -4,6 +4,5 @@ def prime(number)
      return true
      puts n
    end
-   
   end
 end
