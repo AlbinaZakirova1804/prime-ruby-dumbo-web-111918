@@ -3,4 +3,5 @@ def prime(number)
    if (number % d) !== 0
      return true
    end
+  end
 end
